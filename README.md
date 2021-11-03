@@ -1,1 +1,1 @@
-# RahimAJ-dash10-technical-test-part-1
+# dash10-technical-test-part-1
